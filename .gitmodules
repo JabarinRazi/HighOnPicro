@@ -1,0 +1,3 @@
+[submodule "external/flyvis"]
+	path = external/flyvis
+	url = https://github.com/TuragaLab/flyvis.git
